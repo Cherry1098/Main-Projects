@@ -85,3 +85,5 @@ if entered_name in users and users[entered_name].login(entered_password):
             print("Invalid choice. Try again.")
 else:
     print("Invalid credentials. Login failed.")
+
+sample code modifications done 
